@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "072e",
+      "title": "Random Thoughts",
+      "body": "Lorem ipsum dolor sit amet.",
+      "date": "2025-03-16"
+    },
+    {
+      "id": "6b66",
+      "title": "Something",
+      "body": "You have to start loving yourself more",
+      "date": "2025-03-16"
+    }
+  ]
+}
